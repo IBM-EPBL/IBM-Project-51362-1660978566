@@ -24,5 +24,5 @@ Team ID :
 <bold>Team member 2 :</bold>  DHARSHINI R | <a href=" ">Assignments</a>
 
        
-<bold>Team member 3 :</bold>  DASARI LIKHITA SAI | <a href=" ">Assignments</a>
+<bold>Team member 3 :</bold>  DASARI LIKHITA SAI | <a href="https://github.com/IBM-EPBL/IBM-Project-51362-1660978566/tree/main/Assignments/Team%20Member%203/Assignments%20of%20Dasari%20Likhitha%20Sai ">Assignments</a>
 
