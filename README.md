@@ -5,11 +5,15 @@ Project ID-University Admit Eligibility Predictor
   
  
 Project Motive:"To Have a Well Formed Technical Platform for Admission , This Helps in Managing the Overall Database of Any University."
+
+
   
   
 Team ID : 
+
 <bold>Team Size:</bold>4
   
+ 
  
 <bold>Team Leader :</bold>  BHAVITHA D | <a href=" ">Assignments</a>
 
