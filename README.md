@@ -14,10 +14,13 @@ Team ID :
   
 <BR>
 <bold>Team Leader :</bold>  BHAVITHA D | <a href=" ">Assignments</a>
-<BR>
+
+  <BR>
 <bold>Team member 1 :</bold> MADHUNISHA TR | <a href=" ">Assignments</a>
 
+    <BR>
 <bold>Team member 2 :</bold>  DHARSHINI R | <a href=" ">Assignments</a>
 
+      <BR>
 <bold>Team member 3 :</bold>  DASARI LIKHITA SAI | <a href=" ">Assignments</a>
 
