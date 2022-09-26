@@ -1,7 +1,7 @@
 # IBM-Project-51362-1660978566
  
 
-Project ID-University Admit Eligibility Predictor
+Project Name-University Admit Eligibility Predictor
   
  
 Project Motive:"To Have a Well Formed Technical Platform for Admission , This Helps in Managing the Overall Database of Any University."
@@ -9,7 +9,8 @@ Project Motive:"To Have a Well Formed Technical Platform for Admission , This He
 
   
   
-Team ID : 
+Team ID : PNT2022TMID24052
+
 
 <bold>Team Size:</bold>4
   
