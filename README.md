@@ -1,7 +1,7 @@
 # IBM-Project-51362-1660978566
  
 
-Project Name-University Admit Eligibility Predictor
+<h1>Project Name-University Admit Eligibility Predictor</h1>
   
  
 Project Motive:"To Have a Well Formed Technical Platform for Admission , This Helps in Managing the Overall Database of Any University."
